@@ -25,6 +25,8 @@ veggy <- cabbages
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+After looking over the files I have decided to use the Numerical~Cat~1.rmd file because VitC is a numerical variable that we will explain by Cult which is a factor variable. The factor variable is a categorial variable. This is how we knew what helper file to upload.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
