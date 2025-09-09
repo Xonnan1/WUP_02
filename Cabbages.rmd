@@ -41,7 +41,7 @@ After looking over the files I have decided to use the Numerical~Cat~1.rmd file 
 boxplot(VitC~Cult,data=veggy)
 ```
 
-
+The measuring amount of VitC content is dependent on the Cultivation method. The c52 has a higher amount in the boxplot than what c39 can reach. The C52 cultivation method yields more VitC content than C39 cultivation method.
 
 ### Numerical Descriptive Results
 
